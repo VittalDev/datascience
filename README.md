@@ -1,2 +1,2 @@
-# datascience
-data science basics
+# datascienceml
+python for data science
